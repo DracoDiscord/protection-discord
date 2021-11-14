@@ -13,6 +13,7 @@
     "common-tags": "^1.8.1",
     "discord-akairo": "github:Tricked-dev/discord-akairo",
     "discord.js": "^13.0.0",
+    "node.js": "^16.13.0",
     "start": " pm2 start ./src/index.js/ --watch"
   }
 }
